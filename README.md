@@ -2,4 +2,6 @@
 
 test text 2 push 
 
-teste new branch this line has ben added in the branch "branch_edgar" 
+(changes to coflit) teste new branch this line has ben added in the branch "branch_edgar" 
+
+changes on branch3 
